@@ -1,1 +1,2 @@
 # practiceGit_ShotaImai
+Github練習
